@@ -1,1 +1,1 @@
-This is all about Computer Science. Let's explore it together!
+This course is all about Computer Science. Let's explore it together!
